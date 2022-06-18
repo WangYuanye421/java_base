@@ -1,0 +1,18 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+participant "HashMap(capacity,loadFactor)" as A
+participant "tableSizeFor(capacity)" as B
+
+autonumber
+activate A
+A -> A : 容量检查
+A -> A : 负载因子检查
+
+
+A -> B : 获取table容量
+activate B
+A <- B : 总是返回2的幂次方
+deactivate B
+
+@enduml
