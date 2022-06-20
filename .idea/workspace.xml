@@ -4,71 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="319cabc9-3a65-48cb-a5ab-0b530399fcc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashmap/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashmap/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/CustomThreadPool01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/CustomThreadPool02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/IoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/TransDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nio/FileChannelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/demo1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/demo1/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/demo2/LoadOutResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/plugin/LangPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/plugin/LoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/plugin/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/plugin/PluginTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringbuilder/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/collection/hashmap/HashMapDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/collection/hashmap/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool02$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/IoDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/TransDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/nio/FileChannelDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/demo1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/demo1/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/demo2/LoadOutResource$MyClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/demo2/LoadOutResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/plugin/LangPlugin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/plugin/LoadTest$MyClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/plugin/LoadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/plugin/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reflect/plugin/PluginTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/stringbuilder/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/collection/CollectionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/collection/hashMap.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/io/IoDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/io/TransDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/juc/JucDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/collection/CollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/collection/hashMap.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/IoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/io/TransDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/juc/JucDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/SkinPlugin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/SkinPlugin.java" afterDir="false" />
+    <list default="true" id="319cabc9-3a65-48cb-a5ab-0b530399fcc9" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/nio/RandomAccessFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/nio/BufferCopyAndSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/nio/NioDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/nio/RandomAccessFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/juc/JucDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/juc/JucDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/juc/JucDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/juc/JucDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +31,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Yuanye.Wang" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -113,7 +69,9 @@
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/javafx-src.zip!/javafx/util/Pair.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1mnhLLLWvcplkAZJ3ps1AJyTaq9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -129,6 +87,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -164,13 +123,13 @@
       <recent name="$PROJECT_DIR$/upload" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TransDemo.test2">
-    <configuration name="TransDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.TransDemo" />
+  <component name="RunManager" selected="应用程序.RandomAccessFileDemo">
+    <configuration name="RandomAccessFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.RandomAccessFileDemo" />
       <module name="1jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,65 +137,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IoDemo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BufferCopyAndSplit.bufferCopy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="io" />
-      <option name="MAIN_CLASS_NAME" value="io.IoDemo" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="nio" />
+      <option name="MAIN_CLASS_NAME" value="nio.BufferCopyAndSplit" />
+      <option name="METHOD_NAME" value="bufferCopy" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IoDemo.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BufferCopyAndSplit.slice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="io" />
-      <option name="MAIN_CLASS_NAME" value="io.IoDemo" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="nio" />
+      <option name="MAIN_CLASS_NAME" value="nio.BufferCopyAndSplit" />
+      <option name="METHOD_NAME" value="slice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NioDemo.baseApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="io" />
-      <option name="MAIN_CLASS_NAME" value="io.TransDemo" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="nio" />
+      <option name="MAIN_CLASS_NAME" value="nio.NioDemo" />
+      <option name="METHOD_NAME" value="baseApi" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomAccessFileTest.rwTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="io" />
-      <option name="MAIN_CLASS_NAME" value="io.TransDemo" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="nio" />
+      <option name="MAIN_CLASS_NAME" value="nio.RandomAccessFileTest" />
+      <option name="METHOD_NAME" value="rwTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TransDemo.test2" />
-        <item itemvalue="JUnit.TransDemo.test1" />
-        <item itemvalue="JUnit.IoDemo.test3" />
-        <item itemvalue="JUnit.IoDemo.test01" />
-        <item itemvalue="应用程序.TransDemo" />
+        <item itemvalue="应用程序.RandomAccessFileDemo" />
+        <item itemvalue="JUnit.RandomAccessFileTest.rwTest" />
+        <item itemvalue="JUnit.BufferCopyAndSplit.slice" />
+        <item itemvalue="JUnit.BufferCopyAndSplit.bufferCopy" />
+        <item itemvalue="JUnit.NioDemo.baseApi" />
       </list>
     </recent_temporary>
   </component>
@@ -280,12 +239,29 @@
       <workItem from="1654854871465" duration="9058000" />
       <workItem from="1655194113660" duration="5230000" />
       <workItem from="1655349417858" duration="873000" />
-      <workItem from="1655510233485" duration="476000" />
+      <workItem from="1655510233485" duration="2955000" />
+      <workItem from="1655534844268" duration="13448000" />
+      <workItem from="1655631761403" duration="1644000" />
+      <workItem from="1655634060679" duration="825000" />
+      <workItem from="1655635573959" duration="921000" />
+      <workItem from="1655706060633" duration="211000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1655510961635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655510961635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -392,7 +368,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/juc/JucDemo.java</url>
-          <line>18</line>
+          <line>25</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -430,11 +406,30 @@
           <line>161</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/juc/JucDemo.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/juc/JucDemo.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/juc/JucDemo.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/juc/JucDemo.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="valueOffset" />
         <watch expression="16 &gt;&gt;&gt; 2" language="JAVA" />
       </configuration>
     </watches-manager>
