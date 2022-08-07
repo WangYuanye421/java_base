@@ -7,11 +7,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="1jdk" />
+        <module name="java-base" />
+        <module name="cloud-provider-8080" />
+        <module name="cloud-common-base" />
+        <module name="code-generator" />
+        <module name="cloud-consumer-8090" />
+        <module name="cloud-rocket-mq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="1jdk" target="8" />
+      <module name="cloud-common-base" target="1.8" />
+      <module name="cloud-consumer-8090" target="1.8" />
+      <module name="cloud-provider-8080" target="1.8" />
+      <module name="cloud-rocket-mq" target="1.8" />
+      <module name="code-generator" target="1.8" />
+      <module name="java-base" target="1.8" />
+      <module name="tech-interview" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-common-base" options="-parameters" />
+      <module name="cloud-consumer-8090" options="-parameters" />
+      <module name="cloud-provider-8080" options="-parameters" />
+      <module name="cloud-rocket-mq" options="-parameters" />
+      <module name="code-generator" options="-parameters" />
+      <module name="java-base" options="-parameters" />
+    </option>
   </component>
 </project>
