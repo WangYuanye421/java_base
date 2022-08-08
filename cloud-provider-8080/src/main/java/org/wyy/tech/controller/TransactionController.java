@@ -48,15 +48,16 @@ public class TransactionController {
         mapper.insert(order);
         // 远程调用
         String msg = restTemplate.postForObject(paymentUrl1, param, String.class);
-        if("payment success".equals(msg)) {
+        throw new RuntimeException("业务异常");
+        /*if("payment success".equals(msg)) {
             return "success";
         }
-        return "error";
+        return "error";*/
     }
 
 
     /**
-     * 无分布式事务
+     * 分布式事务
      * @param request
      * @return
      */

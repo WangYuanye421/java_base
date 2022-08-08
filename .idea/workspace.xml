@@ -4,249 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="319cabc9-3a65-48cb-a5ab-0b530399fcc9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alibaba_commons_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_discovery_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson2_fastjson2_2_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson2_fastjson2_extension_2_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_2_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_0_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_tracer_common_0_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_tracer_otel_0_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_tracer_otel_agent_0_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-common-base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-common-base/src/main/java/org/wyy/tech/AppCommonBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-common-base/src/main/java/org/wyy/tech/entity/base/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-common-base/src/main/java/org/wyy/tech/entity/biz/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/AppConsumer8090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/config/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/controller/EmpController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/entity/BizPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/mapper/BizPaymentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/java/org/wyy/tech/mapper/BizPaymentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-8090/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/AppProvider8080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/config/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/controller/PushController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/controller/TransactionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/entity/BizOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/mapper/BizOrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/resources/mapper/BizOrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-rocket-mq/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-rocket-mq/src/main/java/org/wyy/tech/AppRocketMq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-rocket-mq/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-generator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-generator/src/main/java/org/wyy/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-generator/src/main/java/org/wyy/tech/entity/BizPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-generator/src/main/java/org/wyy/tech/mapper/BizPaymentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-generator/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-generator/src/main/resources/mapper/BizPaymentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/AppJavaBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="319cabc9-3a65-48cb-a5ab-0b530399fcc9" name="Default Changelist" comment="nacos 学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/base/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/base/Sub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/hashmap/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/hashmap/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/hashmap/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/hashmap/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrent/CustomThreadPool01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/concurrent/CustomThreadPool01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrent/CustomThreadPool02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/concurrent/CustomThreadPool02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/IoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/io/IoDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/TransDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/io/TransDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nio/FileChannelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/nio/FileChannelDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nio/RandomAccessFileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/nio/RandomAccessFileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/demo1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/demo1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/demo1/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/demo1/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/demo2/LoadOutResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/demo2/LoadOutResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/plugin/LangPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/plugin/LangPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/plugin/LoadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/plugin/LoadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/plugin/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/plugin/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/plugin/PluginTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/reflect/plugin/PluginTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringbuilder/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/main/java/org/wyy/tech/stringbuilder/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collection/hashmap/HashMapDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collection/hashmap/note.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool02$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/concurrent/CustomThreadPool02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/IoDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/TransDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nio/FileChannelDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/demo1/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/demo1/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/demo2/LoadOutResource$MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/demo2/LoadOutResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/plugin/LangPlugin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/plugin/LoadTest$MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/plugin/LoadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/plugin/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/reflect/plugin/PluginTemplate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stringbuilder/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/collection/CollectionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/collection/hashMap.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/io/IoDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/io/TransDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/juc/JucDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/collection/CollectionDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/collection/hashMap.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/io/IoDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/io/TransDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/juc/JucDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/nio/BufferCopyAndSplit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/nio/NioDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/nio/RandomAccessFileTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/SkinPlugin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/SkinPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/controller/TransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8080/src/main/java/org/wyy/tech/controller/TransactionController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,7 +116,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3219178" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="ReaderModeSettings">
     <option name="showInlayHints" value="false" />
@@ -403,7 +164,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generated-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" runType="运行单个请求">
+    <configuration name="generated-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3">
       <method v="2" />
     </configuration>
     <configuration name="AppCommonBase" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -482,9 +243,7 @@
       <list>
         <item itemvalue="Spring Boot.AppConsumer8090" />
         <item itemvalue="Spring Boot.AppProvider8080" />
-        <item itemvalue="应用程序.CodeGenerator" />
         <item itemvalue="Spring Boot.ApplicationGen" />
-        <item itemvalue="HTTP 请求.generated-requests#3" />
       </list>
     </recent_temporary>
   </component>
@@ -524,6 +283,9 @@
       <workItem from="1655706060633" duration="211000" />
       <workItem from="1659851059571" duration="13847000" />
       <workItem from="1659866505595" duration="17196000" />
+      <workItem from="1659893321427" duration="265000" />
+      <workItem from="1659971797801" duration="72000" />
+      <workItem from="1659971890802" duration="3678000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1655510961635</created>
@@ -532,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655510961635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nacos 学习">
+      <created>1659893399852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659893399852</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +310,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="nacos 学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="nacos 学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
