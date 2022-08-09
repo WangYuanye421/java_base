@@ -39,6 +39,6 @@ public class BizOrderService {
 		mapper.insert(order);
 		// 远程调用
 		String msg = restTemplate.postForObject(paymentUrl2, order, String.class);
-		throw new RuntimeException("业务异常");
+		System.out.println(1/0);
 	}
 }

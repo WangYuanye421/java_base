@@ -236,6 +236,6 @@ CREATE TABLE `undo_log` (
 ```shell
 请求参数: param:{"orderNo":"33333","productName":"干脆面"}
 `8080/order/save1` # 无事务执行
-`8080/order/save2` # 有事务执行
+`8080/order/save2` # 有事务执行 (undo_log表中对于每个被@GlobalTransactional标识的方法,都会生成一条表示变化前后差异的版本数据)
 ```
 ### RocketMQ集成

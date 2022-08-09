@@ -35,7 +35,7 @@ public class PaymentController {
 
     @PostMapping("save2")
     @ResponseBody
-    public String save2(String order){
+    public String save2(@RequestBody String order){
         JSONObject jsonObject = JSONObject.parseObject(order);
         BizPayment payment = new BizPayment();
         payment.setOrderNo(jsonObject.getString("orderNo"));
