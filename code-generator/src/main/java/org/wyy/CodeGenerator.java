@@ -41,7 +41,7 @@ public class CodeGenerator {
         }
 
         gc.setOutputDir(projectPath + "/src/main/java");
-        gc.setAuthor("[mybatis plus generator]");
+        gc.setAuthor("wyy");
         gc.setOpen(false);
 
         gc.setBaseResultMap(true);

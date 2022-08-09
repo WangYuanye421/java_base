@@ -13,7 +13,7 @@ import java.io.Serializable;
  * 订单表
  * </p>
  *
- * @author [mybatis plus generator]
+ * @author wyy
  * @since 2022-08-08
  */
 @Data

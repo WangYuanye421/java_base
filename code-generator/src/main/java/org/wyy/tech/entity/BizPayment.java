@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
  * 支付表
  * </p>
  *
- * @author [mybatis plus generator]
+ * @author wyy
  * @since 2022-08-08
  */
 @Data

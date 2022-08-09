@@ -45,6 +45,11 @@
 			<artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
 			<version>2.2.6.RELEASE</version>
 		</dependency>
+		<!--seata 分布式事务-->
+		<dependency>
+			<groupId>com.alibaba.cloud</groupId>
+			<artifactId>spring-cloud-starter-alibaba-seata</artifactId>
+		</dependency>
 		<!--mybatis依赖-->
 		<dependency>
 			<groupId>org.mybatis.spring.boot</groupId>
