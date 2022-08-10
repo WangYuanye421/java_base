@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
  **/
 @Controller
 @RequestMapping("order")
-public class TransactionController {
+public class ProviderController {
     @Resource
     BizOrderService orderService;
 

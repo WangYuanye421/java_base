@@ -17,14 +17,15 @@
 	<version>1.0</version>
 	<packaging>pom</packaging>
 
-	<!--子模块-->
+	<!--子模块介绍-->
 	<modules>
-		<module>java-base</module>
-		<module>cloud-common-base</module>
-		<module>cloud-rocket-mq</module>
-		<module>cloud-provider-8080</module>
-		<module>cloud-consumer-8090</module>
-		<module>code-generator</module>
+		<module>java-base</module><!--java基础-->
+		<module>cloud-common-base</module><!--通用封装-->
+		<module>cloud-rocket-mq</module><!--消息队列-->
+		<module>cloud-provider-8080</module><!--生产者-->
+		<module>cloud-consumer-8090</module><!--消费者-->
+		<module>code-generator</module><!--代码生成器-->
+		<module>computer-internet</module><!--计算机网络-->
 	</modules>
 
 	<!--属性,版本统一定义-->

@@ -44,4 +44,6 @@ public class PaymentController {
         service.insert2(payment);
         return "payment success";
     }
+
+
 }

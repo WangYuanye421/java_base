@@ -19,8 +19,6 @@ spring:
     username: root
     password: root123
 
-provider:
-  url: http://cloud-provider-8080/push/pushEmp
 
 # Seata 配置
 seata:
