@@ -38,4 +38,59 @@ CREATE TABLE `undo_log` (
                             PRIMARY KEY (`id`),
                             UNIQUE KEY `ux_undo_log` (`xid`,`branch_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+-- 用户 角色 权限
+create table tech_interview.sys_user
+(
+    id       bigint auto_increment
+        primary key,
+    username varchar(64) not null comment '用户名',
+    pwd      varchar(64) not null comment '密码',
+    salt     varchar(64) not null comment '加密盐',
+    constraint sys_user_username_uindex
+        unique (username)
+)
+    comment '系统用户表';
+
+create table tech_interview.sys_role
+(
+    id   bigint auto_increment
+        primary key,
+    name varchar(64) null comment '角色名称',
+    constraint sys_role_name_uindex
+        unique (name)
+)
+    comment '系统角色表';
+
+create table tech_interview.sys_user_role
+(
+    id      bigint auto_increment
+        primary key,
+    user_id bigint            not null comment '用户id',
+    role_id bigint            not null comment '角色id',
+    status  tinyint default 1 not null comment '数据状态'
+)
+    comment '用户角色表';
+
+create table tech_interview.sys_auth
+(
+    id         bigint auto_increment
+        primary key,
+    permission varchar(64)  not null comment '权限定义',
+    url        varchar(255) null comment '资源路径'
+)
+    comment '权限表';
+
+create table tech_interview.sys_role_auth
+(
+    id      bigint auto_increment
+        primary key,
+    role_id bigint not null comment '角色id',
+    auth_id bigint not null comment '权限id'
+)
+    comment '角色权限表';
+
+
+
+
 SET FOREIGN_KEY_CHECKS=1;

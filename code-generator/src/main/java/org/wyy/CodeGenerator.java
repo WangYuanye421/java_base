@@ -26,8 +26,8 @@ public class CodeGenerator {
     public static  String dbPassword = "root123";
 
     // 多个用,  拼接
-    //public  final String TABLE_NAMES= "t_sys_entitlement,t_sys_role,t_sys_user,t_sys_user_auth";
-    public static  final String tableNames= "biz_payment";
+    public static  final String tableNames= "sys_user,sys_role,sys_user_role,sys_auth,sys_role_auth";
+    //public static  final String tableNames= "biz_payment";
 
     public static void main(String[] args) {
         // 代码生成器
@@ -46,7 +46,7 @@ public class CodeGenerator {
 
         gc.setBaseResultMap(true);
         gc.setDateType(DateType.ONLY_DATE);
-        //gc.setServiceImplName("%sService");  //不生成 service；
+        gc.setServiceImplName("%sServiceImpl");
 
         mpg.setGlobalConfig(gc);
 
@@ -74,29 +74,23 @@ public class CodeGenerator {
 
         // 包配置
         PackageConfig pc = new PackageConfig();
-        //根目录
         pc.setParent("org.wyy.tech");
         //实体目录
         pc.setEntity("entity");
         //Mapper接口目录
         pc.setMapper("mapper");
         //xml目录
-        pc.setXml("mapper");
-        //service目录  不需要，暂时删除
-        //pc.setService("delete_delete");
+        pc.setXml("mapper.xml");
+        //service目录
+        pc.setService("service");
         //serviceImpl 目录
-        //pc.setServiceImpl("service");
-
+        pc.setServiceImpl("service.impl");
         mpg.setPackageInfo(pc);
 
         // 配置模板
         TemplateConfig templateConfig = new TemplateConfig();
         //不生成controller
-        templateConfig.setController(null);
-        //不生成services
-        templateConfig.setService(null);
-        templateConfig.setServiceImpl(null);
-
+        //templateConfig.setController(null);
         mpg.setTemplate(templateConfig);
 
 
@@ -112,7 +106,7 @@ public class CodeGenerator {
 //        strategy.setEntityTableFieldAnnotationEnable(true); //自动添加 field注解
 
         mpg.setStrategy(strategy);
-
         mpg.execute();
+
     }
 }

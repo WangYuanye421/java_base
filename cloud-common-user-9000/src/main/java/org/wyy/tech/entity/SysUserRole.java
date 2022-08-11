@@ -1,25 +1,26 @@
 package org.wyy.tech.entity;
 
-import java.math.BigDecimal;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
-import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.experimental.Accessors;
+import org.wyy.tech.entity.base.BaseEntity;
+
+import java.io.Serializable;
 
 /**
  * <p>
- * 支付表
+ * 用户角色表
  * </p>
  *
  * @author wyy
- * @since 2022-08-08
+ * @since 2022-08-11
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
 @Accessors(chain = true)
-public class BizPayment implements Serializable {
+public class SysUserRole extends BaseEntity {
 
     private static final long serialVersionUID=1L;
 
@@ -27,19 +28,19 @@ public class BizPayment implements Serializable {
     private Long id;
 
     /**
-     * 订单编号
+     * 用户id
      */
-    private String orderNo;
+    private Long userId;
 
     /**
-     * 付款金额
+     * 角色id
      */
-    private BigDecimal payAmount;
+    private Long roleId;
 
     /**
-     * 付款状态
+     * 数据状态
      */
-    private String status;
+    private Byte status;
 
 
 }
