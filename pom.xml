@@ -28,7 +28,8 @@
 		<module>cloud-common-user-9000</module><!--用户服务-->
 
 		<module>java-base</module><!--java基础-->
-		<module>computer-internet</module><!--计算机网络-->
+		<module>computer-internet</module>
+		<module>spring-note</module><!--计算机网络-->
 
 
 	</modules>
