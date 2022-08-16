@@ -45,7 +45,7 @@ public class CountdownLatchDemo {
 
 	public static void main(String[] args) {
 		CountdownLatchDemo demo = new CountdownLatchDemo();
-		// 系统虽然最先开始执行,但需要等待子模块加载完毕才能继续
+		// 系统加载虽然最先开始执行,但需要等待子模块加载完毕才能继续
 		new Thread(() -> demo.loadSystem("IOT")).start();
 		try {
 			Thread.sleep(1000);
